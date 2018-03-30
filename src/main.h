@@ -1,0 +1,9 @@
+extern float height;
+extern float width;
+extern float length;
+extern float speed;
+extern float Radius;
+extern int acc[COUNT];
+extern int dcc[COUNT];
+extern bool play;
+extern float slide;
